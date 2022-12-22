@@ -19,7 +19,7 @@
   
 </p>
 
-I'm a data science masters student at UT Austin and a medical device engineer, seeking to turn my passion for quantitative analysis into a data science career.
+I'm a data scientist and data science masters student at UT Austin, seeking to constantly sharpen my skillset.
 
 I am devoted to continuous learning, and enjoy Kaggle competitions, reading about statistics, and diving into the math of ML algorithms. When I'm not learning about data science, you'll likely find me training no gi jiu-jitsu, downhill skiing, strength training, fermenting everything in my kitchen (to the frustration of my significant other), or testing a new YouTube cooking recipie.
 
