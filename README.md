@@ -21,10 +21,7 @@
 
 I'm a data scientist and data science masters student at UT Austin, seeking to constantly sharpen my skillset.
 
-I am devoted to continuous learning, and enjoy Kaggle competitions, reading about statistics, and diving into the math of ML algorithms. When I'm not learning about data science, you'll likely find me training no gi jiu-jitsu, downhill skiing, strength training, fermenting everything in my kitchen (to the frustration of my significant other), or testing a new YouTube cooking recipie.
-
-I primarily code in Python, but dabble in R and Julia. Fun fact: my first language was MATLAB, which I learned in a computational course for chemical engineering students. After taking the course I loved coding so much I learned Python, and eventually went on to teach that same course as it switched to Python.
-
+I primarily code in Python.
 
 <!---
 turnerluke/turnerluke is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
