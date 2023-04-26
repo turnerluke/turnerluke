@@ -1,4 +1,4 @@
-<h3 align="center"> Hello! I'm Turner Luke.</h3>
+<h3 align="center"> Turner Luke.</h3>
 <p align="center">
   
   <a href="https://www.linkedin.com/in/turnermluke/">
