@@ -19,17 +19,6 @@
   
 </p>
 
-I'm a data scientist and data science masters student at UT Austin, seeking to constantly sharpen my skillset.
+Data scientist/data engineer/python developer.
 
-I primarily code in Python.
-
-<!---
-turnerluke/turnerluke is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
-
-- 👋 Hi, I’m @turnerluke
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently learning ML, statistics, SQL, data visualization, and more
-- 💞️ I’m looking to collaborate on anything data science related
-- 📫 How to reach me - tluke@wisc.edu
---->
+Python.
