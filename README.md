@@ -1,4 +1,5 @@
 <h3 align="center"> Turner Luke.</h3>
+<h4 align="center">Data scientist/data engineer/python developer.</h4>
 <p align="center">
   
   <a href="https://www.linkedin.com/in/turnermluke/">
@@ -19,6 +20,5 @@
   
 </p>
 
-Data scientist/data engineer/python developer.
 
-Python.
+
