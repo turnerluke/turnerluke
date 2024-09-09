@@ -1,5 +1,5 @@
 <h3 align="center"> Turner Luke.</h3>
-<h4 align="center">Data scientist/data engineer/python developer.</h4>
+<h4 align="center">Data Engineer.</h4>
 <p align="center">
   
   <a href="https://www.linkedin.com/in/turnermluke/">
@@ -20,5 +20,10 @@
   
 </p>
 
+<p align="center">
+  <a href="https://github.com/turnerluke/dotfiles">
+    My dotfiles (neovim and tmux).
+  </a>
+</p>
 
 
