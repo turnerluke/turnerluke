@@ -1,11 +1,11 @@
-<h3 align="center"> Turner Luke.</h3>
-<h4 align="center">Data Engineer.</h4>
+<h3 align="center"> Turner Luke</h3>
+<h4 align="center">Data Engineer</h4>
 <p align="center">
   
   <a href="https://www.linkedin.com/in/turnermluke/">
     LinkedIn
   </a>
-  •
+<!--   •
   <a href=https://github.com/turnerluke/turnerluke/blob/main/Turner%20Luke%20Resume.pdf>
     Resume
   </a>
@@ -16,13 +16,13 @@
   •
   <a href=https://medium.com/@turnermluke>
     Medium Blogposts
-  </a>
+  </a> -->
   
 </p>
 
 <p align="center">
   <a href="https://github.com/turnerluke/dotfiles">
-    My dotfiles (neovim and tmux).
+    My dotfiles.
   </a>
 </p>
 
